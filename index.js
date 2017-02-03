@@ -47,7 +47,6 @@ module.exports = {
     'consistent-return': 0,
     'no-use-before-define': 0,
     'no-debugger': 0,
-    'no-underscore-dangle': 0
     'global-require': 0,
     'spaced-comment': 0,
     'no-console': 0,
