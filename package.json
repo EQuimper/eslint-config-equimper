@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-equimper",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Eslint config with less rule for react & react-native working with es7",
   "main": "index.js",
   "repository": {
@@ -11,6 +11,15 @@
   },
   "author": "Emanuel Quimper <quimperemanuel@gmail.com> <https://github.com/EQuimper>",
   "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-es6",
+    "eslint-es7",
+    "eslint-react",
+    "eslint-airbnb",
+    "eslint-decorator"
+  ],
   "dependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.14.1",
