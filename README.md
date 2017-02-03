@@ -1,8 +1,10 @@
 ## Usage
 
-Create .eslintrc file in the root directory
+1. `npm i -D eslint-config-equimper` or `yarn add -D eslint-config-equimper`
 
-And paste this code
+2. Create .eslintrc file in the root directory
+
+3. And paste this code
 
 ```
 {
