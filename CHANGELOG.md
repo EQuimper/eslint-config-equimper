@@ -9,3 +9,9 @@
 ### Fixed
 
 - Error with the file best-practices
+
+## [1.1.3] - 2017-02-04
+
+### Fixed
+
+- Error with the href
