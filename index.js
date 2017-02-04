@@ -57,6 +57,7 @@ module.exports = {
   globals: {
     "describe": false,
     "it": false,
-    "test": false
+    "test": false,
+    "expect": false
   }
 };

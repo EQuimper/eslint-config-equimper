@@ -21,3 +21,9 @@
 ### Added
 
 - Add plugin import
+
+## [1.3.0] - 2017-02-04
+
+### Added
+
+- Add test to global
