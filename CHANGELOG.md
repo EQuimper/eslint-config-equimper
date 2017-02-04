@@ -15,3 +15,9 @@
 ### Fixed
 
 - Error with the href
+
+## [1.2.0] - 2017-02-04
+
+### Added
+
+- Add plugin import

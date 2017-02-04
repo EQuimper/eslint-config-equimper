@@ -19,7 +19,8 @@ module.exports = {
     sourceType: 'module'
   },
   plugins: [
-    'class-property'
+    'class-property',
+    'import'
   ],
   parser: 'babel-eslint',
   rules: {

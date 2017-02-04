@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-equimper",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "Eslint config with less rule for react & react-native working with es7",
   "main": "index.js",
   "repository": {
