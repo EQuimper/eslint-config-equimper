@@ -1,6 +1,6 @@
 ## Usage
 
-1. `npm i -D eslint-config-equimper` or `yarn add -D eslint-config-equimper`
+1. `npm i -D eslint-config-equimper` || `yarn add -D eslint-config-equimper`
 
 2. Create .eslintrc file in the root directory
 
