@@ -53,5 +53,10 @@ module.exports = {
     'no-console': 0,
     'no-alert': 0,
     'linebreak-style': 0
+  },
+  globals: {
+    "describe": false,
+    "it": false,
+    "test": false
   }
 };
