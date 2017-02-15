@@ -58,6 +58,8 @@ module.exports = {
     "describe": false,
     "it": false,
     "test": false,
-    "expect": false
+    "expect": false,
+    "beforeEach": false,
+    "afterEach": false
   }
 };

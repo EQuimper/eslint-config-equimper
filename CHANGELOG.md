@@ -27,3 +27,10 @@
 ### Added
 
 - Add test to global
+
+## [1.4.0] - 2017-02-15
+
+### Added
+
+- BeforeEach
+- AfterEach
