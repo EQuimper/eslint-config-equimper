@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/eslint-config-equimper)
+
 ## Usage
 
 1. `npm i -D eslint-config-equimper` || `yarn add -D eslint-config-equimper`
