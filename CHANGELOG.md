@@ -34,3 +34,10 @@
 
 - BeforeEach
 - AfterEach
+
+## [1.5.0] - 2017-03-18
+
+### Updated
+
+- Eslint
+- Eslint-react-a11y
