@@ -41,3 +41,10 @@
 
 - Eslint
 - Eslint-react-a11y
+
+## [1.5.2] - 2017-03-29
+
+### Updated
+
+- babel-eslint@7.2.1
+- eslint-plugin-react@6.10.3

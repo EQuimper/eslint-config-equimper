@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-equimper",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Eslint config with less rule for react & react-native working with es7. Base of Airbnb",
   "main": "index.js",
   "repository": {
@@ -23,11 +23,11 @@
     "react eslint"
   ],
   "dependencies": {
-    "babel-eslint": "^7.1.1",
+    "babel-eslint": "^7.2.1",
     "eslint": "^3.18.0",
     "eslint-plugin-class-property": "^1.0.3",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.0"
+    "eslint-plugin-react": "^6.10.3"
   }
 }
