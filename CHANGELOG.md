@@ -48,3 +48,9 @@
 
 - babel-eslint@7.2.1
 - eslint-plugin-react@6.10.3
+
+## [1.5.3] - 2017-03-30
+
+### Changed
+
+- Change max empty line from 2 to 1
