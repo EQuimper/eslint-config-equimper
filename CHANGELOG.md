@@ -60,3 +60,10 @@
 ### Fix
 
 - Add eslint to peer deps
+
+## [1.6.1] - 2017-03-30
+
+### Fix
+
+### Updated
+- Max-Length 100 -> 150
