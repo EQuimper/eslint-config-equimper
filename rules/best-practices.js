@@ -14,6 +14,7 @@ module.exports = {
     complexity: ['off', 11],
 
     // require return statements to either always or never specify values
+    // http://eslint.org/docs/rules/consistent-return
     'consistent-return': 'error',
 
     // specify curly brace conventions for all control statements

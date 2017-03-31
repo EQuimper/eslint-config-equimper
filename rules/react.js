@@ -60,7 +60,7 @@ module.exports = {
     // Prevent usage of .bind() in JSX props
     // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md
     'react/jsx-no-bind': [2, {
-      ignoreRefs: true,
+      ignoreRefs: false,
       allowArrowFunctions: true,
       allowBind: false,
     }],

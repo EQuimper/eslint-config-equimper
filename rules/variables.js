@@ -1,7 +1,7 @@
 module.exports = {
   rules: {
     // enforce or disallow variable initializations at definition
-    'init-declarations': 'off',
+    'init-declarations': ["error", "always"],
 
     // disallow the catch clause parameter name being the same as a variable in the outer scope
     'no-catch-shadow': 'off',
