@@ -9,6 +9,12 @@
   "bugs": {
     "url": "https://github.com/EQuimper/eslint-config-equimper/issues"
   },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
   "author": "Emanuel Quimper <quimperemanuel@gmail.com> <https://github.com/EQuimper>",
   "license": "MIT",
   "keywords": [
@@ -31,6 +37,6 @@
     "eslint-plugin-react": "^6.10.3"
   },
   "peerDependencies": {
-    "eslint": "^3.18.0"
+    "eslint": ">=3.18.0"
   }
 }
