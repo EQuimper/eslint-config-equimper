@@ -13,8 +13,7 @@ module.exports = {
   ].map(require.resolve),
   parserOptions: {
     ecmaFeatures: {
-      experimentalObjectRestSpread: true,
-      "impliedStrict": true
+      experimentalObjectRestSpread: true
     },
     ecmaVersion: 7,
     sourceType: 'module'
@@ -24,9 +23,6 @@ module.exports = {
     'import'
   ],
   parser: 'babel-eslint',
-  "env": {
-    "es6": true
-  },
   rules: {
     'strict': 0,
     'react/jsx-no-bind': 0,
