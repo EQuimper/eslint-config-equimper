@@ -54,3 +54,9 @@
 ### Changed
 
 - Change max empty line from 2 to 1
+
+## [1.5.4] - 2017-03-30
+
+### Fix
+
+- Add eslint to peer deps
