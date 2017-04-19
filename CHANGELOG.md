@@ -63,7 +63,11 @@
 
 ## [1.6.1] - 2017-03-30
 
-### Fix
-
 ### Updated
 - Max-Length 100 -> 150
+
+## [1.6.3] - 2017-04-19
+
+### Updated
+
+- Bump Version
