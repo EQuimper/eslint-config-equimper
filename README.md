@@ -1,5 +1,6 @@
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/eslint-config-equimper)
 [![Build Status](https://travis-ci.org/EQuimper/eslint-config-equimper.svg?branch=master)](https://travis-ci.org/EQuimper/eslint-config-equimper)
+[![Greenkeeper badge](https://badges.greenkeeper.io/EQuimper/eslint-config-equimper.svg)](https://greenkeeper.io/)
 
 ## Usage
 
