@@ -3,6 +3,8 @@
 
 ## Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EQuimper/eslint-config-equimper.svg)](https://greenkeeper.io/)
+
 1. `npm i -D eslint-config-equimper eslint` || `yarn add -D eslint-config-equimper eslint`
 
 2. Create .eslintrc file in the root directory
