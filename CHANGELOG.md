@@ -71,3 +71,9 @@
 ### Updated
 
 - Bump Version
+
+## [1.6.4] - 2017-05-03
+
+### Updated
+
+- Bump Version

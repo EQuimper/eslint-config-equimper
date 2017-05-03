@@ -46,6 +46,7 @@ module.exports = {
     "test": false,
     "expect": false,
     "beforeEach": false,
-    "afterEach": false
+    "afterEach": false,
+    "before": false
   }
 };

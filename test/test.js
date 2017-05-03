@@ -3,10 +3,7 @@ const eslint = require('eslint');
 const conf = require('../');
 
 // The source files to lint.
-const repoFiles = [
-  'index.js',
-  'test/test.js',
-];
+const repoFiles = ['index.js', 'test/test.js'];
 
 // Use the rules defined in this repo to test against.
 const eslintOpts = {
