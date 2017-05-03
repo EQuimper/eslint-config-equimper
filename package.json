@@ -50,7 +50,9 @@
     "cz-conventional-changelog": "^2.0.0",
     "semantic-release": "^6.3.2"
   },
-  "czConfig": {
-    "path": "node_modules/cz-conventional-changelog"
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
