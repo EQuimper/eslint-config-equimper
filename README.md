@@ -1,4 +1,5 @@
 [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/eslint-config-equimper)
+[![npm](https://img.shields.io/npm/dt/eslint-config-equimper.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-equimper)
 [![Build Status](https://travis-ci.org/EQuimper/eslint-config-equimper.svg?branch=master)](https://travis-ci.org/EQuimper/eslint-config-equimper)
 
 ## Usage
