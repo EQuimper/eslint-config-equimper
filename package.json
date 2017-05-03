@@ -10,7 +10,9 @@
     "url": "https://github.com/EQuimper/eslint-config-equimper/issues"
   },
   "scripts": {
-    "test": "node test/test.js"
+    "commit": "git-cz",
+    "test": "node test/test.js",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -42,5 +44,13 @@
   },
   "peerDependencies": {
     "eslint": ">=3.18.0"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "semantic-release": "^6.3.2"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
   }
 }
