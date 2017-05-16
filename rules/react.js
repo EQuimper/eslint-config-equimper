@@ -225,7 +225,6 @@ module.exports = {
       declaration: true,
       assignment: true,
       return: true,
-      arrow: true,
     }],
 
     // Validate whitespace in and around the JSX opening and closing brackets
