@@ -32,13 +32,13 @@ module.exports = {
 
     // Require <img> to have a non-empty `alt` prop, or role="presentation"
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/alt-text.md
-    'jsx-a11y/alt-text': ['error', {
-      elements: ['img', 'object', 'area', 'input[type="image"]'],
-      img: [],
-      object: [],
-      area: [],
-      'input[type="image"]': [],
-    }],
+    // 'jsx-a11y/alt-text': ['error', {
+    //   elements: ['img', 'object', 'area', 'input[type="image"]'],
+    //   img: [],
+    //   object: [],
+    //   area: [],
+    //   'input[type="image"]': [],
+    // }],
 
     // Prevent img alt text from containing redundant words like "image", "picture", or "photo"
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/img-redundant-alt.md
@@ -84,16 +84,16 @@ module.exports = {
 
     // A non-interactive element does not support event handlers (mouse and key handlers)
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/no-noninteractive-element-interactions.md
-    'jsx-a11y/no-noninteractive-element-interactions': ['error', {
-      handlers: [
-        'onClick',
-        'onMouseDown',
-        'onMouseUp',
-        'onKeyPress',
-        'onKeyDown',
-        'onKeyUp',
-      ]
-    }],
+    // 'jsx-a11y/no-noninteractive-element-interactions': ['error', {
+    //   handlers: [
+    //     'onClick',
+    //     'onMouseDown',
+    //     'onMouseUp',
+    //     'onKeyPress',
+    //     'onKeyDown',
+    //     'onKeyUp',
+    //   ]
+    // }],
 
     // ensure HTML elements do not specify redundant ARIA roles
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/no-redundant-roles.md
