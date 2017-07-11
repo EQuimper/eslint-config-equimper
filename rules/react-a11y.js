@@ -23,10 +23,6 @@ module.exports = {
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/aria-unsupported-elements.md
     'jsx-a11y/aria-unsupported-elements': 'error',
 
-    // disallow href "#"
-    // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/href-no-hash.md
-    'jsx-a11y/href-no-hash': ['error', { components: ['a'] }],
-
     // Require <img> to have a non-empty `alt` prop, or role="presentation"
     // https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/alt-text.md
     // 'jsx-a11y/alt-text': ['error', {
