@@ -35,7 +35,7 @@
     "react eslint"
   ],
   "dependencies": {
-    "babel-eslint": "^8.0.0",
+    "babel-eslint": "^10.1.0",
     "eslint": "^4.2.0",
     "eslint-plugin-class-property": "^1.0.6",
     "eslint-plugin-import": "^2.7.0",
